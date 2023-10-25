@@ -8,7 +8,7 @@
 # Site Settings
 title                    : "CPS@HITSZ"
 description              : "Prof. Jingyong Su's Lab"
-repository               : "su-cps.github.io"
+repository               : "su-cps/su-cps.github.io"
 google_scholar_stats_use_cdn : false
 
 # google analytics
