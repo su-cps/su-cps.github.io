@@ -37,7 +37,7 @@ redirect_from:
 
 *Zhengcen Li, Yueran Li, Linlin Tang, Tong Zhang, **Jingyong Su***
 
-[[Paper]](https://ieeexplore.ieee.org/document/10001762) [[Code]](https://github.com/mgiant/2P-GCN)
+[[Paper]](https://ieeexplore.ieee.org/document/10001762) [[pdf]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10001762) [[Code]](https://github.com/mgiant/2P-GCN)
 
 
 </div>
