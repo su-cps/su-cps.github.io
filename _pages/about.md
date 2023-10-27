@@ -43,6 +43,23 @@ redirect_from:
 </div>
 </div>
 
+
+<div class='paper-box'>
+<div class='paper-box-image'>
+<div>
+<div class="badge">IEEE TGRS 2023</div>
+<div class='paper-box-text' markdown="1">
+
+**Cross-Scale Guided Fusion Transformer for Disaster Assessment Using Satellite Imagery**
+
+*Weiwei Xiao, **Jingyong Su***, Yongyong Chen, **Guofeng Cao***
+
+[[Paper]](https://ieeexplore.ieee.org/document/10197573) [[pdf]](https://ieeexplore.ieee.org/document/10197573) [[Code]](https://github.com/successhaha/GF-Transformer)
+
+
+</div>
+</div>
+
 <!-- - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020** -->
 
 <!-- # 🎖 Honors and Awards -->
