@@ -65,6 +65,7 @@ redirect_from:
 <div class='paper-box-image'>
 <div>
 <div class="badge">IEEE TKDE 2023</div>
+<img src='images/IEEE-TKDE-2023.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **Optimizing Spaced Repetition Schedule by Capturing the Dynamics of Memory**
@@ -84,7 +85,8 @@ redirect_from:
 <div class='paper-box'>
 <div class='paper-box-image'>
 <div>
-<div class="badge">IEEE TKDE 2023</div>
+<div class="badge">ACM SIGKDD 2022</div>
+<img src='images/ACM-SIGKDD-2022.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **A Stochastic Shortest Path Algorithm for Optimizing Spaced Repetition Scheduling**
