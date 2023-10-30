@@ -29,25 +29,8 @@ redirect_from:
 <div class='paper-box'>
 <div class='paper-box-image'>
 <div>
-<div class="badge">TCSVT 2022</div>
-<img src='images/network2.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-**Two-Person Graph Convolutional Network for Skeleton-based Human Interaction Recognition**
-
-*Zhengcen Li, Yueran Li, Linlin Tang, Tong Zhang, **Jingyong Su***
-
-[[Paper]](https://ieeexplore.ieee.org/document/10001762) [[pdf]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10001762) [[Code]](https://github.com/mgiant/2P-GCN)
-
-
-</div>
-</div>
-
-
-<div class='paper-box'>
-<div class='paper-box-image'>
-<div>
 <div class="badge">IEEE TGRS 2023</div>
+  <img src='images/network2.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **Cross-Scale Guided Fusion Transformer for Disaster Assessment Using Satellite Imagery**
@@ -55,8 +38,6 @@ redirect_from:
 *Weiwei Xiao, **Jingyong Su**, Yongyong Chen, **Guofeng Cao***
 
 [[Paper]](https://ieeexplore.ieee.org/document/10197573) [[pdf]](https://ieeexplore.ieee.org/document/10197573) [[Code]](https://github.com/successhaha/GF-Transformer)
-
-
 </div>
 </div>
 
@@ -65,19 +46,30 @@ redirect_from:
 <div class='paper-box-image'>
 <div>
 <div class="badge">IEEE TKDE 2023</div>
-<img src='images/IEEE-TKDE-2023.png' alt="sym" width="100%"></div></div>
+  <img src='images/IEEE-TKDE-2023.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **Optimizing Spaced Repetition Schedule by Capturing the Dynamics of Memory**
 
-*Jingyong Su, Junyao Ye, Liqiang Nie, Yilong Cao, Yongyong Chen*
+***Jingyong Su**, Junyao Ye, Liqiang Nie, Yilong Cao, Yongyong Chen*
 
 [[Paper]](https://ieeexplore.ieee.org/document/10059206) [[pdf]](https://www.researchgate.net/publication/369045947_Optimizing_Spaced_Repetition_Schedule_by_Capturing_the_Dynamics_of_Memory) [[Code]](https://github.com/maimemo/SSP-MMC-Plus)
-
-
 </div>
 </div>
 
+
+<div class='paper-box'>
+<div class='paper-box-image'>
+<div>
+<div class="badge">TCSVT 2022</div>
+  <img src='images/network2.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+**Two-Person Graph Convolutional Network for Skeleton-based Human Interaction Recognition**
+
+*Zhengcen Li, Yueran Li, Linlin Tang, Tong Zhang, **Jingyong Su***
+
+[[Paper]](https://ieeexplore.ieee.org/document/10001762) [[pdf]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10001762) [[Code]](https://github.com/mgiant/2P-GCN)
 </div>
 </div>
 
@@ -86,30 +78,13 @@ redirect_from:
 <div class='paper-box-image'>
 <div>
 <div class="badge">ACM SIGKDD 2022</div>
-<img src='images/ACM-SIGKDD-2022.png' alt="sym" width="100%"></div></div>
+  <img src='images/ACM-SIGKDD-2022.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **A Stochastic Shortest Path Algorithm for Optimizing Spaced Repetition Scheduling**
 
-*Junyao Ye, Jingyong Su, Yilong Cao*
+*Junyao Ye, **Jingyong Su**, Yilong Cao*
 
 [[Paper]](https://dl.acm.org/doi/10.1145/3534678.3539081) [[pdf]](https://www.maimemo.com/paper/) [[Code]](https://github.com/maimemo/SSP-MMC)
-
-
 </div>
 </div>
-
-<!-- - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020** -->
-
-<!-- # 🎖 Honors and Awards -->
-
-<!-- # 📖 Educations
-- *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  -->
-
-<!-- # 💬 Invited Talks
-- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/) -->
-
-<!-- # 💻 Internships
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China. -->
