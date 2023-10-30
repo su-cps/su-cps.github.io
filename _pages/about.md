@@ -52,9 +52,46 @@ redirect_from:
 
 **Cross-Scale Guided Fusion Transformer for Disaster Assessment Using Satellite Imagery**
 
-*Weiwei Xiao, **Jingyong Su***, Yongyong Chen, **Guofeng Cao***
+*Weiwei Xiao, **Jingyong Su**, Yongyong Chen, **Guofeng Cao***
 
 [[Paper]](https://ieeexplore.ieee.org/document/10197573) [[pdf]](https://ieeexplore.ieee.org/document/10197573) [[Code]](https://github.com/successhaha/GF-Transformer)
+
+
+</div>
+</div>
+
+
+<div class='paper-box'>
+<div class='paper-box-image'>
+<div>
+<div class="badge">IEEE TKDE 2023</div>
+<div class='paper-box-text' markdown="1">
+
+**Optimizing Spaced Repetition Schedule by Capturing the Dynamics of Memory**
+
+*Jingyong Su, Junyao Ye, Liqiang Nie, Yilong Cao, Yongyong Chen*
+
+[[Paper]](https://ieeexplore.ieee.org/document/10059206) [[pdf]](https://www.researchgate.net/publication/369045947_Optimizing_Spaced_Repetition_Schedule_by_Capturing_the_Dynamics_of_Memory) [[Code]](https://github.com/maimemo/SSP-MMC-Plus)
+
+
+</div>
+</div>
+
+</div>
+</div>
+
+
+<div class='paper-box'>
+<div class='paper-box-image'>
+<div>
+<div class="badge">IEEE TKDE 2023</div>
+<div class='paper-box-text' markdown="1">
+
+**A Stochastic Shortest Path Algorithm for Optimizing Spaced Repetition Scheduling**
+
+*Junyao Ye, Jingyong Su, Yilong Cao*
+
+[[Paper]](https://dl.acm.org/doi/10.1145/3534678.3539081) [[pdf]](https://www.maimemo.com/paper/) [[Code]](https://github.com/maimemo/SSP-MMC)
 
 
 </div>
