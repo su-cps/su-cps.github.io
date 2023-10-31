@@ -61,6 +61,22 @@ redirect_from:
 <div class='paper-box'>
 <div class='paper-box-image'>
 <div>
+<div class="badge">Computers in Biology and Medicine 2023</div>
+  <img src='images/fig/Computers_in_Biology_and_Medicine-2023.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+**RV-ESA: A novel computer-aided elastic shape analysis system for retinal vessels in diabetic retinopathy**
+
+*Xiaoling Luo, Honggang Zhang, **Jingyong Su**, Wai Keung Wong, Jinkai Li, Yong Xu*
+
+[[Paper]](https://www.sciencedirect.com/science/article/pii/S0010482522011143) [[pdf]](https://www.sciencedirect.com/science/article/pii/S0010482522011143/pdfft?md5=02503cf5f26f47109a4f0e203b65e0e2&pid=1-s2.0-S0010482522011143-main.pdf) [[Code]](https://github.com/XiaolingLuo/RV-ESA)
+</div>
+</div>
+
+
+<div class='paper-box'>
+<div class='paper-box-image'>
+<div>
 <div class="badge">TCSVT 2022</div>
   <img src='images/fig/IEEE-TCSVT-2022.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
