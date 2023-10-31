@@ -30,7 +30,7 @@ redirect_from:
 <div class='paper-box-image'>
 <div>
 <div class="badge">IEEE TGRS 2023</div>
-  <img src='images/network2.png' alt="sym" width="100%"></div></div>
+  <img src='images/fig/500x300.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **Cross-Scale Guided Fusion Transformer for Disaster Assessment Using Satellite Imagery**
@@ -46,7 +46,7 @@ redirect_from:
 <div class='paper-box-image'>
 <div>
 <div class="badge">IEEE TKDE 2023</div>
-  <img src='images/IEEE-TKDE-2023.png' alt="sym" width="100%"></div></div>
+  <img src='images/fig/IEEE-TKDE-2023.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **Optimizing Spaced Repetition Schedule by Capturing the Dynamics of Memory**
@@ -62,7 +62,7 @@ redirect_from:
 <div class='paper-box-image'>
 <div>
 <div class="badge">TCSVT 2022</div>
-  <img src='images/network2.png' alt="sym" width="100%"></div></div>
+  <img src='images/fig/IEEE-TCSVT-2022.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **Two-Person Graph Convolutional Network for Skeleton-based Human Interaction Recognition**
@@ -78,7 +78,7 @@ redirect_from:
 <div class='paper-box-image'>
 <div>
 <div class="badge">ACM SIGKDD 2022</div>
-  <img src='images/ACM-SIGKDD-2022.png' alt="sym" width="100%"></div></div>
+  <img src='images/fig/ACM-SIGKDD-2022.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **A Stochastic Shortest Path Algorithm for Optimizing Spaced Repetition Scheduling**
