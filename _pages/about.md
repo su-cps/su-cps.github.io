@@ -30,7 +30,7 @@ redirect_from:
 <div class='paper-box-image'>
 <div>
 <div class="badge">IEEE TGRS 2023</div>
-  <img src='images/fig/500x300.png' alt="sym" width="100%"></div></div>
+  <img src='images/fig/IEEE-TGRS-2023.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **Cross-Scale Guided Fusion Transformer for Disaster Assessment Using Satellite Imagery**
