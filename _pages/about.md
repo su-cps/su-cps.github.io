@@ -104,3 +104,18 @@ redirect_from:
 [[Paper]](https://dl.acm.org/doi/10.1145/3534678.3539081) [[pdf]](https://www.maimemo.com/paper/) [[Code]](https://github.com/maimemo/SSP-MMC)
 </div>
 </div>
+
+<div class='paper-box'>
+<div class='paper-box-image'>
+<div>
+<div class="badge">ICCV 2023</div>
+  <img src='images/fig/ICCV-2023.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+**Temporal Enhanced Training of Multi-view 3D Object Detector via Historical Object Prediction**
+
+*Zhuofan Zong\*, Dongzhi Jiang\*, Guanglu Song, Zeyue Xue, Jingyong Su, **Hongsheng Li**, **Yu Liu***
+
+[[Paper]](https://openaccess.thecvf.com/content/ICCV2023/papers/Zong_Temporal_Enhanced_Training_of_Multi-view_3D_Object_Detector_via_Historical_ICCV_2023_paper.pdf) [[pdf]](https://openaccess.thecvf.com/content/ICCV2023/papers/Zong_Temporal_Enhanced_Training_of_Multi-view_3D_Object_Detector_via_Historical_ICCV_2023_paper.pdf) [[Code]](https://github.com/Sense-X/HoP)
+</div>
+</div>
