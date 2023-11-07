@@ -45,6 +45,24 @@ redirect_from:
 <div class='paper-box'>
 <div class='paper-box-image'>
 <div>
+<div class="badge">CVPR 2023</div>
+  <img src='images\fig\CVPR-2023-PBH.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+**Hierarchical Dense Correlation Distillation for Few-Shot Segmentation**
+
+***Bohao Peng**, Zhuotao Tian, Xiaoyang Wu, Chengyao Wang, Shu Liu, <u>**Jingyong Su**</u>, Jiaya Jia*
+
+**Highlight Paper**  (2.5% acceptance rate)
+
+[[Paper]](https://openaccess.thecvf.com/content/CVPR2023/papers/Peng_Hierarchical_Dense_Correlation_Distillation_for_Few-Shot_Segmentation_CVPR_2023_paper.pdf) [[pdf]](https://openaccess.thecvf.com/content/CVPR2023/papers/Peng_Hierarchical_Dense_Correlation_Distillation_for_Few-Shot_Segmentation_CVPR_2023_paper.pdf) [[Code]](https://github.com/Pbihao/HDMNet)
+</div>
+</div>
+
+
+<div class='paper-box'>
+<div class='paper-box-image'>
+<div>
 <div class="badge">IEEE TGRS 2023</div>
   <img src='images/fig/IEEE-TGRS-2023.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
