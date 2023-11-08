@@ -51,7 +51,7 @@ redirect_from:
 
 **Hierarchical Dense Correlation Distillation for Few-Shot Segmentation**
 
-***Bohao Peng**, Zhuotao Tian, Xiaoyang Wu, Chengyao Wang, Shu Liu, <u>**Jingyong Su**</u>, Jiaya Jia*
+***Bohao Peng**, Zhuotao Tian, Xiaoyang Wu, Chengyao Wang, Shu Liu, <u>Jingyong Su</u>, Jiaya Jia*
 
 **Highlight Paper**  (2.5% acceptance rate)
 
@@ -136,5 +136,21 @@ redirect_from:
 *Junyao Ye, <u>Jingyong Su</u>, Yilong Cao*
 
 [[Paper]](https://dl.acm.org/doi/10.1145/3534678.3539081) [[pdf]](https://www.maimemo.com/paper/) [[Code]](https://github.com/maimemo/SSP-MMC)
+</div>
+</div>
+
+
+<div class='paper-box'>
+<div class='paper-box-image'>
+<div>
+<div class="badge">APIN 2021</div>
+  <img src='images/fig/APIN-2021.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+**Statistical analysis of the community lockdown for COVID-19 pandemic**
+
+*Shaocong Wu, Xiaolong Wang, **<u>Jingyong Su</u>***
+
+[[Paper]](https://link.springer.com/article/10.1007/s10489-021-02615-9) [[pdf]](https://link.springer.com/content/pdf/10.1007/s10489-021-02615-9.pdf) [[Code]](https://github.com/shaocongWu/APIN2021_COVID19_Project)
 </div>
 </div>
