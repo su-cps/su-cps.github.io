@@ -29,6 +29,22 @@ redirect_from:
 <div class='paper-box'>
 <div class='paper-box-image'>
 <div>
+<div class="badge">BIBM 2023</div>
+  <img src='images/fig/Yangyang-BIBM-2023.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+**Semi-supervised Medical Image Segmentation via Feature-perturbed Consistency**
+
+Yang Yang, Ruixuan Wang, Tong Zhang, Jingyong Su
+
+[[pdf]](pdf/BIBM_Semi_supervised_Medical_Image_Segmentation_via_Feature_perturbed_Consistency.pdf) [[Code]](https://github.com/youngyzzZ/SFPC)
+</div>
+</div>
+
+
+<div class='paper-box'>
+<div class='paper-box-image'>
+<div>
 <div class="badge">ICCV 2023</div>
   <img src='images/fig/ICCV-2023.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -37,7 +53,7 @@ redirect_from:
 
 *Zhuofan Zong\*, Dongzhi Jiang\*, Guanglu Song, Zeyue Xue, <u>Jingyong Su</u>, **Hongsheng Li**, **Yu Liu***
 
-[[Paper]](https://openaccess.thecvf.com/content/ICCV2023/papers/Zong_Temporal_Enhanced_Training_of_Multi-view_3D_Object_Detector_via_Historical_ICCV_2023_paper.pdf) [[pdf]](https://openaccess.thecvf.com/content/ICCV2023/papers/Zong_Temporal_Enhanced_Training_of_Multi-view_3D_Object_Detector_via_Historical_ICCV_2023_paper.pdf) [[Code]](https://github.com/Sense-X/HoP)
+[[Paper]](https://openaccess.thecvf.com/content/ICCV2023/html/Zong_Temporal_Enhanced_Training_of_Multi-view_3D_Object_Detector_via_Historical_ICCV_2023_paper.html) [[pdf]](https://openaccess.thecvf.com/content/ICCV2023/papers/Zong_Temporal_Enhanced_Training_of_Multi-view_3D_Object_Detector_via_Historical_ICCV_2023_paper.pdf) [[Code]](https://github.com/Sense-X/HoP)
 </div>
 </div>
 
@@ -120,6 +136,22 @@ redirect_from:
 *Zhengcen Li, Yueran Li, Linlin Tang, Tong Zhang, <u>Jingyong Su</u>*
 
 [[Paper]](https://ieeexplore.ieee.org/document/10001762) [[pdf]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10001762) [[Code]](https://github.com/mgiant/2P-GCN)
+</div>
+</div>
+
+
+<div class='paper-box'>
+<div class='paper-box-image'>
+<div>
+<div class="badge">TNSRE 2022</div>
+  <img src='images/fig/Chenxingjian-TNSRE-2022.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+**A BERT-based method for continuous estimation of cross-subject hand kinematics from surface electromyographic signals**
+
+*Chuang Lin; Xingjian Chen; Weiyu Guo; Ning Jiang; Dario Farina; <u>Jingyong Su</u>*
+
+[[Paper]](https://ieeexplore.ieee.org/abstract/document/9927168/) [[pdf]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9927168) [[Code]](https://github.com/Great-P/sEMG-master)
 </div>
 </div>
 
