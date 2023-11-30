@@ -111,6 +111,21 @@ Yang Yang, Ruixuan Wang, Tong Zhang, Jingyong Su
 <div class='paper-box'>
 <div class='paper-box-image'>
 <div>
+<div class="badge">IEEE TMI 2023</div>
+  <img src='images/fig/Zhaoyi-TMI-2023.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+**A Riemannian Framework for Structurally Curated Functional Clustering of Brain White Matter Fibers**
+
+*Yi Zhao, Zhipeng Yang, Zhaohua Ding, <u>Jingyong Su</u>*
+
+[[Paper]](https://ieeexplore.ieee.org/abstract/document/10058536) [[pdf]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10058536) [[Code]](https://github.com/Scbsdk/TSRVF-Brain)
+</div>
+</div>
+
+<div class='paper-box'>
+<div class='paper-box-image'>
+<div>
 <div class="badge">Computers in Biology and Medicine 2023</div>
   <img src='images/fig/Computers_in_Biology_and_Medicine-2023.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
