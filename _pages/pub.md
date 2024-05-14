@@ -122,7 +122,6 @@ Yang Yang, Ruixuan Wang, Tong Zhang, Jingyong Su
 <div class="badge">TCSVT 2022</div>
   <img src='images/fig/IEEE-TCSVT-2022.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
-
 **Two-Person Graph Convolutional Network for Skeleton-based Human Interaction Recognition**
 
 *Zhengcen Li, Yueran Li, Linlin Tang, Tong Zhang, <u>Jingyong Su</u>*
@@ -170,7 +169,6 @@ Yang Yang, Ruixuan Wang, Tong Zhang, Jingyong Su
 <div class="badge">APIN 2021</div>
   <img src='images/fig/APIN-2021.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
-
 **Statistical analysis of the community lockdown for COVID-19 pandemic**
 
 *Shaocong Wu, Xiaolong Wang, **<u>Jingyong Su</u>***
@@ -179,3 +177,6 @@ Yang Yang, Ruixuan Wang, Tong Zhang, Jingyong Su
 </div>
 </div>
 
+
+
+{% include_relative pubs/chenxingjian-TNSRE2024.md %}
