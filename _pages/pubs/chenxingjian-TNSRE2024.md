@@ -7,13 +7,11 @@
             </a>
         </div>
     </div>
-
-
-
 <div class='paper-box-text' markdown="1">
-**YOUR PAPER TITLE HERE**
 
-Xingjian Chen; Weiyu Guo; Chuang Lin; Ning Jiang; <u>**Jingyong Su**</u>
+**Cross-Subject Lifelong Learning for Continuous Estimation from Surface Electromyographic Signal**
+
+Xingjian Chen; Weiyu Guo; Chuang Lin; Ning Jiang; Jingyong Su
 
 [[pdf]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10530128) [[Code]](https://github.com/Great-P/sEMG-master)
 

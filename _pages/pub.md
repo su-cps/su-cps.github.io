@@ -1,5 +1,7 @@
 # 📝 Publications 
 
+{% include_relative pubs/chenxingjian-TNSRE2024.md %}
+
 {% include_relative pubs/xiaoweiwei-aaai2024.md %}
 
 
@@ -176,7 +178,3 @@ Yang Yang, Ruixuan Wang, Tong Zhang, Jingyong Su
 [[Paper]](https://link.springer.com/article/10.1007/s10489-021-02615-9) [[pdf]](https://link.springer.com/content/pdf/10.1007/s10489-021-02615-9.pdf) [[Code]](https://github.com/shaocongWu/APIN2021_COVID19_Project)
 </div>
 </div>
-
-
-
-{% include_relative pubs/chenxingjian-TNSRE2024.md %}
