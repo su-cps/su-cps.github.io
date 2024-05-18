@@ -3,7 +3,7 @@
         <div>
             <div class="badge">TNSRE 2024</div>
             <a href="https://ieeexplore.ieee.org/document/10530128 ">
-            <img src='images/fig/Chenxingjian-TNSRE-2024.pdf' alt="sym" width="100%">
+            <img src='images/fig/Chenxingjian-TNSRE-2024.jpg' alt="sym" width="100%">
             </a>
         </div>
     </div>
