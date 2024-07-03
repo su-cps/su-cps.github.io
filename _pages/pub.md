@@ -4,7 +4,7 @@
 
 {% include_relative pubs/xiaoweiwei-aaai2024.md %}
 
-{% include_relative pubs/yangyang-bibm2023.html %}
+{% include_relative pubs/yangyang-bibm2023.md %}
 
 
 <div class='paper-box'>
