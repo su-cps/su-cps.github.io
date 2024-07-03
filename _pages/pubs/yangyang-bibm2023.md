@@ -9,11 +9,12 @@
   </div>
   <div class='paper-box-text' markdown="1">
 
-    **Semi-supervised Medical Image Segmentation via Feature-perturbed Consistency**
+**Semi-supervised Medical Image Segmentation via Feature-perturbed Consistency**
 
-    Yang Yang, Ruixuan Wang, Tong Zhang, Jingyong Su
+Yang Yang, Ruixuan Wang, Tong Zhang, Jingyong Su
 
-    [[pdf]](pdf/BIBM_Semi_supervised_Medical_Image_Segmentation_via_Feature_perturbed_Consistency.pdf)
-    [[Code]](https://github.com/youngyzzZ/SFPC)
+[[pdf]](pdf/BIBM_Semi_supervised_Medical_Image_Segmentation_via_Feature_perturbed_Consistency.pdf)
+[[Code]](https://github.com/youngyzzZ/SFPC)
+
   </div>
 </div>
