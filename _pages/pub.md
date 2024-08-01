@@ -1,5 +1,7 @@
 # 📝 Publications 
 
+{% include_relative pubs/shaotong_eccv24.md %}
+
 {% include_relative pubs/chenxingjian-TNSRE2024.md %}
 
 {% include_relative pubs/xiaoweiwei-aaai2024.md %}
