@@ -3,7 +3,7 @@
         <div>
             <div class="badge">ECCV 2024</div>
             <a href="https://arxiv.org/abs/2407.08268">
-            <img src='images/fig/xiaoweiwei-aaai2024.png' alt="sym" width="100%">
+            <img src='images/fig/shaotong-eccv24.png' alt="sym" width="100%">
             </a>
         </div>
     </div>
