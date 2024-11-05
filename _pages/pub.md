@@ -1,5 +1,7 @@
 # 📝 Publications 
 
+{% include_relative pubs/liuyijun_NeurIPS2024.md %}
+
 {% include_relative pubs/lizhengcen_eccv24.md %}
 
 {% include_relative pubs/shaotong_eccv24.md %}
