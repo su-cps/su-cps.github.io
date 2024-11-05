@@ -3,7 +3,7 @@
         <div>
             <div class="badge">NeurIPS 2024</div>
             <a href="https://neurips.cc/virtual/2024/poster/95120">
-            <img src='images/fig/shaotong-eccv24.png' alt="sym" width="100%">
+            <img src='images/fig/liuyijun_NeurIPS2024.png' alt="sym" width="100%">
             </a>
         </div>
     </div>
