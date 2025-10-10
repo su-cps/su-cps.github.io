@@ -1,4 +1,6 @@
 # 📝 Publications 
+{% include_relative pubs/changxinle_2025bibm.md %}
+
 {% include_relative pubs/zhoushiyang_cvpr25.md %}
 
 {% include_relative pubs/liuyijun_NeurIPS2024.md %}
