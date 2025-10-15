@@ -9,6 +9,7 @@
 - [2025.04] 1 paper is published on Medical Imaging Analysis
 - [2025.04] 1 paper is accepted by ICASSP 2025
 - [2025.05] 1 paper is published on IEEE Trans. Circuits and Systems for Video Technology
+- [2025.06] 1 paper is accepted by MICCAI 2025
 - [2025.07] 1 paper is published on Pattern Recognition
 - [2025.09] 1 paper is published on Biomedical Signal Processing and Control
 - [2025.09] 1 paper is published on Psychiatry and Clinical Neurosciences
