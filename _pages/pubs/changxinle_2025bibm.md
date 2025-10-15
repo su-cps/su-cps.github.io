@@ -3,7 +3,7 @@
         <div>
             <div class="badge">BIBM 2025</div>
             <a href="https://arxiv.org/abs/2510.06914">
-            <img src='images/fig/changxinle-bibm2025.png' alt="sym" width="100%">
+            <img src='images/fig/changxinle-2025bibm.png' alt="sym" width="100%">
             </a>
         </div>
     </div>
