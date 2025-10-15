@@ -3,8 +3,6 @@
 
 {% include_relative pubs/zhoushiyang_cvpr25.md %}
 
-{% include_relative pubs/tangzhengyu_MICCAI2025.md %}
-
 {% include_relative pubs/yangyang_2025TMI.md %}
 
 {% include_relative pubs/yangyang_2025MIA.md %}
