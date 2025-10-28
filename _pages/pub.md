@@ -1,4 +1,6 @@
 # 📝 Publications 
+{% include_relative pubs/sunguoying_bibm2025.md %}
+
 {% include_relative pubs/tangzhenyu-MICCAI2025.md %}
 
 {% include_relative pubs/zhoushiyang_cvpr25.md %}
